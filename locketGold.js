@@ -54,6 +54,7 @@ if (match) {
 // Giả sử có một danh sách tên bạn bè
 var friendsUsernames = [
   { username: "tongtrankien2004", entitlement: "Gold" }, 
+  { username: "tongtrankien1605", entitlement: "Gold" }, 
 ];
 
 // Cập nhật thông tin cho bạn bè
